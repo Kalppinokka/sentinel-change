@@ -1,0 +1,7 @@
+# Ajojen tulokset (README:n esimerkkikuva on docs/-kansiossa)
+tulokset/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
